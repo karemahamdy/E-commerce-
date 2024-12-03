@@ -25,7 +25,7 @@ npm run dev
 ##  Technologies
 React, React Router dom, Css, Sass...
 
-## Folder Architicture
+## Folder architecture 
 
 ```plaintext
 ecommerce-project/
@@ -58,15 +58,28 @@ ecommerce-project/
 │   │
 │   ├── styles/
 │   │   ├── global.scss
-│   │   ├── 
-│   │   
+│   │    
 │   │
 │   ├── ui/
 │   │   └── 
-│
+│   ├── data/
+│   │   └── Links.js 
 │   ├── App.js
 │   └── index.js
 │
 ├── package.json
 └── README.md
 
+## demo image
+
+- home screen
+
+![Project Screenshot](home.png)
+
+- cart
+
+![Project Screenshot](cart.png)
+
+- description
+
+![Project Screenshot](description.png)
