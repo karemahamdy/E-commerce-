@@ -25,6 +25,22 @@ npm run dev
 ##  Technologies
 React, React Router dom, Css, Sass...
 
+
+## demo image
+
+- home screen
+
+![Project Screenshot](home.png)
+
+
+- cart
+
+![Project Screenshot](cart.png)
+
+- description
+
+![Project Screenshot](description.png)
+
 ## Folder architecture 
 
 ```plaintext
@@ -69,17 +85,3 @@ ecommerce-project/
 │
 ├── package.json
 └── README.md
-
-## demo image
-
-- home screen
-
-![Project Screenshot](home.png)
-
-- cart
-
-![Project Screenshot](cart.png)
-
-- description
-
-![Project Screenshot](description.png)
